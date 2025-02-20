@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin-bottom: 20px;
+    background-image: url(imagemfundo.webp);
+    background-size: 100% 190%;
+}
+
+form{
+    background-color:  rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0px ;
+    margin-left: 38%;
+    margin-right: 30%;
+    margin-top: 7%;
+    box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.794);
+}
+
